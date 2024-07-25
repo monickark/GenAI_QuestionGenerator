@@ -1,0 +1,7 @@
+pip install streamlit openai
+pip install pymupdf
+pip install docx
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install PyQt6
